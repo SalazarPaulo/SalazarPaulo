@@ -1,16 +1,154 @@
-### Hi there 👋
+# 🏄‍♂️ Paulo Salazar
 
-<!--
-**SalazarPaulo/SalazarPaulo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-------------------------------------------------------------------------------------------------------->
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=Hello+Guys+^_^;Welcome!)
+**`Digital Craftsman (Developer/3DArtist)`**
+<!-------------------------------------------------------------------------------------------------------->
 
-Here are some ideas to get you started:
+<summary> I'm an indie full-stack developer and 3D artist building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. 
+</summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-------------------------------------------------------------------------------------------------------->
+   <p align="left">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/SalazarPaulo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/SalazarPaulo?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   </p>
+<!-------------------------------------------------------------------------------------------------------->
+
+---
+
+### 🧰 Languages and Tools
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<br />
+
+---
+
+<!-------------------------------------------------------------------------------------------------------->
+<div id="proyectos">
+  <h2>Projects👨🏻‍💻</h2> 
+  <table align="left" >
+    <tr border="none">
+      <td width="25%" align="center">
+        <p align="center">
+         <a href="https://cristinagranda.es/" title="Go to Link">
+            <img align="center" width=100% alt="LINK" /></a>
+          </p>
+        <p align="center">
+            <a href="https://cristinagranda.es/" target="blank"><img align="center" src="https://img.shields.io/badge/Link-5C32B7?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  style="border-radius: 50%;" /></a>
+          <a href="https://github.com/SalazarPaulo/Portfolio_Cristina_Locutor" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@SalazarPaulo" style="border-radius: 50%;" /></a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+<br>
+<br><br>
+<br>
+<br><br><br>
+<br><br>
+<!-------------------------------------------------------------------------------------------------------->
+
+---
+
+### 🧰 STATS
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SalazarPaulo&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<!-------------------------------------------------------------------------------------------------------->
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SalazarPaulo&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" alt="Bastian Dev github stats" /> 
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalazarPaulo&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117" />
+</div> 
+
+<!-------------------------------------------------------------------------------------------------------->
+
+<p align="center">
+ <img  src="https://github-readme-streak-stats.herokuapp.com?user=SalazarPaulo&theme=tokyonight_duo&hide_border=true"
+</p>
+  
+<!-------------------------------------------------------------------------------------------------------->
+<div align="center">
+<div align="center">
+
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-salazar-b00261212/)
+[![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:pauloiisalazar@gmail.com)](mailto:pauloiisalazar@gmail.com)
+</div>
+<!-------------------------------------------------------------------------------------------------------->
+
+### 🧰 SKILLS
+
+```mermaid
+graph TD;
+    Front-End-->HTML5;
+    Front-End-->CSS3;
+    Front-End-->JavaScript;
+    Front-End-->React;
+    Front-End-->XML;
+    Front-End-->Figma;
+    Front-End-->Tailwind;
+```
+
+```mermaid
+graph TD;
+    Back-End-->Java;
+    Back-End-->Python;
+    Back-End-->C;
+    Back-End-->Visual-Basic;
+    Visual-Basic-->SQL;
+    Python-->Tkinter;
+    Java-->JavaSE;
+    Java-->Spring;
+    Java-->SQL;
+    Java-->Oracle;
+    Spring-->SprBootMVC;
+    Spring-->SprBootAPI-REST;
+    Spring-->SprDATA-JPA;
+    Spring-->JSP;
+    Spring-->JPA;
+    SQL-->Hibernate;
+    SQL-->Spr-JDBC;
+    Oracle-->Hibernate;
+    Oracle-->Spr-JDBC;
+    Java-->Forms;
+    Forms-->JavaFX;
+    Forms-->JFrame;
+    Forms-->Java-Swing;
+```
+
+<!-------------------------------------------------------------------------------------------------------->
+
+<div align="center">
+<br><p align="center"><b>Visitors Count SalazarPaulo </b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{SalazarPaulo}/count.svg" /></p> 
+<br>
+</div>
+
+<!-------------------------------------------------------------------------------------------------------->
+<a href="https://info.flagcounter.com/HB0j"><img src="https://s01.flagcounter.com/countxl/HB0j/bg_0D1117/txt_FFFFFF/border_0D1117/columns_8/maxflags_20/viewers_0/labels_0/pageviews_0/flags_0/percent_1/" alt="Flag Counter" border="0"></a>
+
+<!-------------------------------------------------------------------------------------------------------->
+
+### 🧰 SNYKEN
+
+![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+<!-------------------------------------------------------------------------------------------------------->
