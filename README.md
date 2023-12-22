@@ -24,7 +24,6 @@
 ---
 
 ### 🧰 Languages and Tools
-
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -45,21 +44,20 @@
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="Anaconda" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />   
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-
+<br>
 <br>
 
 ---
-
 <!-------------------------------------------------------------------------------------------------------->
 
-### <div id="proyectos">
-  <h2>Projects👨🏻‍💻</h2> 
+### <div id="PROJECTS">
+  <h2>PROJECTS👨🏻‍💻</h2> 
   <table align="left" >
     <tr border="none">
       <td width="25%" align="center">
         <p align="center">
          <a href="https://cristinagranda.es/" title="Go to Link">
-            <img align="center" width=100% src="./Assets/Perfil.png" alt="LINK" /></a>
+            <img align="center" width=300px src="./Assets/Perfil.PNG" alt="LINK"/></a>
           </p>
         <p align="center">
             <a href="https://cristinagranda.es/" target="blank"><img align="center" src="https://img.shields.io/badge/Link-5C32B7?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  style="border-radius: 50%;" /></a>
