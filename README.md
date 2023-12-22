@@ -1,4 +1,4 @@
-# 🏄‍♂️ Paulo Salazar <picture><img src = "./Assets/about_me.gif" width = 35px></picture> 
+# 🏄‍♂️ Paulo Salazar <picture><img src = "./Assets/about_me.gif" width = 30px></picture> 
 
 <!-------------------------------------------------------------------------------------------------------->
  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=Hello+Guys+^_^;Welcome!)
