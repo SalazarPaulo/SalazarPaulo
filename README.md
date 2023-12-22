@@ -1,4 +1,4 @@
-# 🏄‍♂️ Paulo Salazar <picture><img src = "./Assets/about_me.gif" width = 50px></picture> 
+# 🏄‍♂️ Paulo Salazar <picture><img src = "./Assets/about_me.gif" width = 35px></picture> 
 
 <!-------------------------------------------------------------------------------------------------------->
  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=Hello+Guys+^_^;Welcome!)
@@ -23,7 +23,7 @@
 
 ---
 
-### 🧰 Languages and Tools
+### 🧰 LANGUAGES AND TOOLS
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -46,12 +46,13 @@
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br>
 <br>
+<br><br>
 
 ---
 <!-------------------------------------------------------------------------------------------------------->
 
 ### <div id="PROJECTS">
-  <h2>PROJECTS👨🏻‍💻</h2> 
+  <h2>👨🏻‍💻 PROJECTS</h2> 
   <table align="left" >
     <tr border="none">
       <td width="25%" align="center">
