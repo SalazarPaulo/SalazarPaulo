@@ -1,4 +1,4 @@
-# 🏄‍♂️ Paulo Salazar <picture><img src = "./assets/about_me.gif" width = 50px></picture> 
+# 🏄‍♂️ Paulo Salazar <picture><img src = "./Assets/about_me.gif" width = 50px></picture> 
 
 <!-------------------------------------------------------------------------------------------------------->
  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=Hello+Guys+^_^;Welcome!)
@@ -7,7 +7,7 @@
 
 <picture>
   <source media="(max-width: 767px)" srcset="">
-  <img align="right" alt="" src="./assets/programming.svg" width=300px>
+  <img align="right" alt="" src="./Assets/programming.svg" width=300px>
 </picture>
 
 <summary> I'm an indie full-stack developer and 3D artist building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. 
@@ -59,7 +59,7 @@
       <td width="25%" align="center">
         <p align="center">
          <a href="https://cristinagranda.es/" title="Go to Link">
-            <img align="center" width=100% src="./assets/Perfil.png" alt="LINK" /></a>
+            <img align="center" width=100% src="./Assets/Perfil.png" alt="LINK" /></a>
           </p>
         <p align="center">
             <a href="https://cristinagranda.es/" target="blank"><img align="center" src="https://img.shields.io/badge/Link-5C32B7?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  style="border-radius: 50%;" /></a>
