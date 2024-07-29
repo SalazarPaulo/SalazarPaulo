@@ -57,11 +57,11 @@
     <tr border="none">
       <td width="25%" align="center">
         <p align="center">
-         <a href="https://cristinagranda.es/" title="Go to Link">
+         <a href="https://cristinagrandapty.web.app/" title="Go to Link">
             <img align="center" width=300px src="./Assets/Perfil.PNG" alt="LINK"/></a>
           </p>
         <p align="center">
-            <a href="https://cristinagranda.es/" target="blank"><img align="center" src="https://img.shields.io/badge/Link-5C32B7?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  style="border-radius: 50%;" /></a>
+            <a href="https://cristinagrandapty.web.app/" target="blank"><img align="center" src="https://img.shields.io/badge/Link-5C32B7?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  style="border-radius: 50%;" /></a>
           <a href="https://github.com/SalazarPaulo/Portfolio_Cristina_Locutor" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@SalazarPaulo" style="border-radius: 50%;" /></a>
         </p>
       </td>
