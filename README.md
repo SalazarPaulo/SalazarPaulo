@@ -54,16 +54,91 @@
 ### <div id="PROJECTS">
   <h2>👨🏻‍💻 PROJECTS</h2> 
   <table align="left" >
-    <tr border="none">
-      <td width="25%" align="center">
-        <p align="center">
-         <a href="https://cristinagrandapty.web.app/" title="Go to Link">
-            <img align="center" width=300px src="./Assets/Perfil.PNG" alt="LINK"/></a>
-          </p>
-        <p align="center">
-            <a href="https://cristinagrandapty.web.app/" target="blank"><img align="center" src="https://img.shields.io/badge/Link-5C32B7?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  style="border-radius: 50%;" /></a>
-          <a href="https://github.com/SalazarPaulo/Portfolio_Cristina_Locutor" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@SalazarPaulo" style="border-radius: 50%;" /></a>
-        </p>
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <a href="https://cristinagrandapty.web.app/" title="Go to Link">
+          <img width="280px" src="./Assets/Perfil.PNG" alt="Proyecto 1"/>
+        </a>
+        <br><br>
+        <a href="https://cristinagrandapty.web.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Link-5C32B7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Link"/>
+        </a>
+        <a href="https://github.com/SalazarPaulo/Portfolio_Cristina_Locutor" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+        </a>
+      </td>
+     <!----next project 2----->
+      <td width="50%" align="center" valign="top">
+        <a href="https://github.com/SalazarPaulo/space_ship" title="Go to Link">
+          <img width="160px" src="https://github.com/SalazarPaulo/space_ship/blob/main/spaceshooter/PNG/playerShip1_blue.png" alt="Proyecto 2"/>
+        </a>
+        <br><br>
+        <a href="https://github.com/SalazarPaulo/space_ship" target="_blank">
+          <img src="https://img.shields.io/badge/Link-5C32B7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Link"/>
+        </a>
+        <a href="https://github.com/SalazarPaulo/space_ship" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+        </a>
+      </td>
+    </tr>
+   <!----next project 3----->
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <br>
+        <a href="https://github.com/SalazarPaulo/Bank-Project" title="Go to Link">
+          <img width="160px" src="https://github.com/SalazarPaulo/Bank-Project/blob/master/Bank/src/main/resources/Images/Icon_dollar.png" alt="Proyecto 3"/>
+        </a>
+        <br><br>
+        <a href="https://cristinagrandapty.web.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Link-5C32B7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Link"/>
+        </a>
+        <a href="https://github.com/SalazarPaulo/Portfolio_Cristina_Locutor" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+        </a>
+      </td>
+     <!----next project 4----->
+      <td width="50%" align="center" valign="top">
+        <br>
+        <a href="https://cristinagrandapty.web.app/" title="Go to Link">
+          <img width="280px" src="./Assets/Perfil.PNG" alt="Proyecto 4"/>
+        </a>
+        <br><br>
+        <a href="https://cristinagrandapty.web.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Link-5C32B7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Link"/>
+        </a>
+        <a href="https://github.com/SalazarPaulo/Portfolio_Cristina_Locutor" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+     <!----next project 5----->
+      <td width="50%" align="center" valign="top">
+        <br>
+        <a href="https://cristinagrandapty.web.app/" title="Go to Link">
+          <img width="280px" src="./Assets/Perfil.PNG" alt="Proyecto 5"/>
+        </a>
+        <br><br>
+        <a href="https://cristinagrandapty.web.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Link-5C32B7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Link"/>
+        </a>
+        <a href="https://github.com/SalazarPaulo/Portfolio_Cristina_Locutor" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+        </a>
+      </td>
+     <!----next project 6----->
+      <td width="50%" align="center" valign="top">
+        <br>
+        <a href="https://cristinagrandapty.web.app/" title="Go to Link">
+          <img width="280px" src="./Assets/Perfil.PNG" alt="Proyecto 6"/>
+        </a>
+        <br><br>
+        <a href="https://cristinagrandapty.web.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Link-5C32B7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Link"/>
+        </a>
+        <a href="https://github.com/SalazarPaulo/Portfolio_Cristina_Locutor" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+        </a>
       </td>
     </tr>
   </table>
@@ -75,10 +150,8 @@
 <br><br>
 <!-------------------------------------------------------------------------------------------------------->
 
----
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> STATS </b>
-
+---
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SalazarPaulo&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-------------------------------------------------------------------------------------------------------->
