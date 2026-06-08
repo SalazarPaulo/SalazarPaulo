@@ -70,12 +70,9 @@
      <!----next project 2----->
       <td width="50%" align="center" valign="top">
         <a href="https://github.com/SalazarPaulo/space_ship" title="Go to Link">
-          <img width="160px" src="https://github.com/SalazarPaulo/space_ship/blob/main/spaceshooter/PNG/playerShip1_blue.png" alt="Proyecto 2"/>
+          <img width="225px" src="./Assets/SpaceShipImg.png" alt="Proyecto 2"/>
         </a>
         <br><br>
-        <a href="https://github.com/SalazarPaulo/space_ship" target="_blank">
-          <img src="https://img.shields.io/badge/Link-5C32B7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Link"/>
-        </a>
         <a href="https://github.com/SalazarPaulo/space_ship" target="_blank">
           <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
         </a>
