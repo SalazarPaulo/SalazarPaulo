@@ -93,14 +93,11 @@
      <!----next project 4----->
       <td width="50%" align="center" valign="top">
         <br>
-        <a href="https://cristinagrandapty.web.app/" title="Go to Link">
-          <img width="280px" src="./Assets/Perfil.PNG" alt="Proyecto 4"/>
+        <a href="https://github.com/SalazarPaulo/CameraGalery" title="Go to Link">
+          <img width="80px" src="./Assets/CameraProfile.jpg" alt="Proyecto 4"/>
         </a>
         <br><br>
-        <a href="https://cristinagrandapty.web.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Link-5C32B7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Link"/>
-        </a>
-        <a href="https://github.com/SalazarPaulo/Portfolio_Cristina_Locutor" target="_blank">
+        <a href="https://github.com/SalazarPaulo/CameraGalery" target="_blank">
           <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
         </a>
       </td>
