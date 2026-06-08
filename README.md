@@ -83,13 +83,10 @@
       <td width="50%" align="center" valign="top">
         <br>
         <a href="https://github.com/SalazarPaulo/Bank-Project" title="Go to Link">
-          <img width="160px" src="https://github.com/SalazarPaulo/Bank-Project/blob/master/Bank/src/main/resources/Images/Icon_dollar.png" alt="Proyecto 3"/>
+          <img width="160px" src="./Assets/LoginBank.png" alt="Proyecto 3"/>
         </a>
         <br><br>
-        <a href="https://cristinagrandapty.web.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Link-5C32B7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Link"/>
-        </a>
-        <a href="https://github.com/SalazarPaulo/Portfolio_Cristina_Locutor" target="_blank">
+        <a href="https://github.com/SalazarPaulo/Bank-Project" target="_blank">
           <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
         </a>
       </td>
