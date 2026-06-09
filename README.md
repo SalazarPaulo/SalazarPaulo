@@ -67,7 +67,7 @@
           <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
         </a>
       </td>
-     <!----next project 2----->
+     <!-- next project 2 -->
       <td width="50%" align="center" valign="top">
         <a href="https://github.com/SalazarPaulo/space_ship" title="Go to Link">
           <img width="225px" src="./Assets/SpaceShipImg.png" alt="Proyecto 2"/>
@@ -78,7 +78,7 @@
         </a>
       </td>
     </tr>
-   <!----next project 3----->
+   <!-- next project 3 -->
     <tr>
       <td width="50%" align="center" valign="top">
         <a href="https://github.com/SalazarPaulo/Bank-Project" title="Go to Link">
@@ -89,7 +89,7 @@
           <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
         </a>
       </td>
-     <!----next project 4----->
+     <!-- next project 4 -->
       <td width="50%" align="center" valign="top">
         <a href="https://github.com/SalazarPaulo/CameraGalery" title="Go to Link">
           <img width="80px" src="./Assets/CameraProfile.jpg" alt="Proyecto 4"/>
