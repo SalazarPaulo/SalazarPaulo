@@ -81,7 +81,6 @@
    <!----next project 3----->
     <tr>
       <td width="50%" align="center" valign="top">
-        <br>
         <a href="https://github.com/SalazarPaulo/Bank-Project" title="Go to Link">
           <img width="160px" src="./Assets/LoginBank.png" alt="Proyecto 3"/>
         </a>
@@ -92,7 +91,6 @@
       </td>
      <!----next project 4----->
       <td width="50%" align="center" valign="top">
-        <br>
         <a href="https://github.com/SalazarPaulo/CameraGalery" title="Go to Link">
           <img width="80px" src="./Assets/CameraProfile.jpg" alt="Proyecto 4"/>
         </a>
