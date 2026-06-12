@@ -105,7 +105,7 @@
       <td width="50%" align="center" valign="top">
         <br>
         <a href="https://github.com/SalazarPaulo/Battle_Ship/tree/main/" title="Go to Link">
-          <img width="280px" src="./Assets/Perfil.PNG" alt="Proyecto 5"/>
+          <img width="160px" src="./Assets/03-player-a-board.png" alt="Proyecto 5"/>
         </a>
         <br><br>
         <a href="https://github.com/SalazarPaulo/Battle_Ship/tree/main" target="_blank">
