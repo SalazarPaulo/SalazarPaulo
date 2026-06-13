@@ -55,9 +55,11 @@
   <h2>👨🏻‍💻 PROJECTS</h2> 
   <table align="left" >
     <tr>
+      <!-- next project 1 -->
       <td width="50%" align="center" valign="top">
+        <h3>🎙️ Portfolio Cristina Granda</h3>
         <a href="https://cristinagrandapty.web.app/" title="Go to Link">
-          <img width="280px" src="./Assets/Perfil.PNG" alt="Proyecto 1"/>
+          <img width="280px" src="./Assets/Perfil.PNG" alt="Portfolio Cristina Granda"/>
         </a>
         <br><br>
         <a href="https://cristinagrandapty.web.app/" target="_blank">
@@ -67,10 +69,11 @@
           <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
         </a>
       </td>
-     <!-- next project 2 -->
+      <!-- next project 2 -->
       <td width="50%" align="center" valign="top">
+        <h3>🚀 Space Ship Game</h3>
         <a href="https://github.com/SalazarPaulo/space_ship" title="Go to Link">
-          <img width="225px" src="./Assets/SpaceShipImg.png" alt="Proyecto 2"/>
+          <img width="225px" src="./Assets/SpaceShipImg.png" alt="Space Ship Game"/>
         </a>
         <br><br>
         <a href="https://github.com/SalazarPaulo/space_ship" target="_blank">
@@ -78,21 +81,23 @@
         </a>
       </td>
     </tr>
-   <!-- next project 3 -->
+    <!-- next project 3 -->
     <tr>
       <td width="50%" align="center" valign="top">
+        <h3>🏦 Bank Project</h3>
         <a href="https://github.com/SalazarPaulo/Bank-Project" title="Go to Link">
-          <img width="160px" src="./Assets/LoginBank.png" alt="Proyecto 3"/>
+          <img width="160px" src="./Assets/LoginBank.png" alt="Bank Project"/>
         </a>
         <br><br>
         <a href="https://github.com/SalazarPaulo/Bank-Project" target="_blank">
           <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
         </a>
       </td>
-     <!-- next project 4 -->
+      <!-- next project 4 -->
       <td width="50%" align="center" valign="top">
+        <h3>📸 Camera Gallery</h3>
         <a href="https://github.com/SalazarPaulo/CameraGalery" title="Go to Link">
-          <img width="80px" src="./Assets/CameraProfile.jpg" alt="Proyecto 4"/>
+          <img width="80px" src="./Assets/CameraProfile.jpg" alt="Camera Gallery"/>
         </a>
         <br><br>
         <a href="https://github.com/SalazarPaulo/CameraGalery" target="_blank">
@@ -101,28 +106,27 @@
       </td>
     </tr>
     <tr>
-     <!----next project 5----->
+      <!-- next project 5 -->
       <td width="50%" align="center" valign="top">
         <br>
+        <h3>🚢 Battle Ship Game</h3>
         <a href="https://github.com/SalazarPaulo/Battle_Ship/tree/main/" title="Go to Link">
-          <img width="160px" src="./Assets/03-player-a-board.png" alt="Proyecto 5"/>
+          <img width="160px" src="./Assets/03-player-a-board.png" alt="Battle Ship Game"/>
         </a>
         <br><br>
         <a href="https://github.com/SalazarPaulo/Battle_Ship/tree/main" target="_blank">
           <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
         </a>
       </td>
-     <!----next project 6----->
+      <!-- next project 6 -->
       <td width="50%" align="center" valign="top">
         <br>
-        <a href="https://cristinagrandapty.web.app/" title="Go to Link">
-          <img width="280px" src="./Assets/Perfil.PNG" alt="Proyecto 6"/>
+        <h3>🧩 Project 6</h3>
+        <a href="https://github.com/SalazarPaulo" title="Go to Link">
+          <img width="280px" src="./Assets/Perfil.PNG" alt="Project 6"/>
         </a>
         <br><br>
-        <a href="https://cristinagrandapty.web.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Link-5C32B7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Link"/>
-        </a>
-        <a href="https://github.com/SalazarPaulo/Portfolio_Cristina_Locutor" target="_blank">
+        <a href="https://github.com/SalazarPaulo" target="_blank">
           <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
         </a>
       </td>
@@ -134,6 +138,68 @@
 <br>
 <br><br><br>
 <br><br>
+<!-------------------------------------------------------------------------------------------------------->
+<div id="MINI-PROJECTS">
+  <h2>🧪 MINI PROJECTS</h2> 
+  <table align="left" >
+    <tr>
+      <!-- next mini project 1 -->
+      <td width="50%" align="center" valign="top">
+        <h3>🧩 Mini Project 1</h3>
+        <a href="https://github.com/SalazarPaulo" title="Go to Link">
+          <img width="220px" src="./Assets/Perfil.PNG" alt="Mini Project 1"/>
+        </a>
+        <br><br>
+        <a href="https://github.com/SalazarPaulo" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+        </a>
+      </td>
+      <!-- next mini project 2 -->
+      <td width="50%" align="center" valign="top">
+        <h3>🧩 Mini Project 2</h3>
+        <a href="https://github.com/SalazarPaulo" title="Go to Link">
+          <img width="220px" src="./Assets/Perfil.PNG" alt="Mini Project 2"/>
+        </a>
+        <br><br>
+        <a href="https://github.com/SalazarPaulo" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+        </a>
+      </td>
+    </tr>
+    <!-- next mini project 3 -->
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <br>
+        <h3>🧩 Mini Project 3</h3>
+        <a href="https://github.com/SalazarPaulo" title="Go to Link">
+          <img width="220px" src="./Assets/Perfil.PNG" alt="Mini Project 3"/>
+        </a>
+        <br><br>
+        <a href="https://github.com/SalazarPaulo" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+        </a>
+      </td>
+      <!-- next mini project 4 -->
+      <td width="50%" align="center" valign="top">
+        <br>
+        <h3>🧩 Mini Project 4</h3>
+        <a href="https://github.com/SalazarPaulo" title="Go to Link">
+          <img width="220px" src="./Assets/Perfil.PNG" alt="Mini Project 4"/>
+        </a>
+        <br><br>
+        <a href="https://github.com/SalazarPaulo" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+<br>
+<br><br>
+<br>
+<br><br><br>
+<br><br>
+<!-------------------------------------------------------------------------------------------------------->
 <!-------------------------------------------------------------------------------------------------------->
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> STATS </b>
