@@ -50,7 +50,6 @@
 
 ---
 <!-------------------------------------------------------------------------------------------------------->
-
 ### <div id="PROJECTS">
   <h2>👨🏻‍💻 PROJECTS</h2> 
   <table align="left" >
@@ -121,12 +120,12 @@
       <!-- next project 6 -->
       <td width="50%" align="center" valign="top">
         <br>
-        <h3>🧩 Project 6</h3>
-        <a href="https://github.com/SalazarPaulo" title="Go to Link">
-          <img width="280px" src="./Assets/Perfil.PNG" alt="Project 6"/>
+        <h3>🎓 Matricula System VB.NET</h3>
+        <a href="https://github.com/SalazarPaulo/matricula-system-vbnet" title="Go to Link">
+          <img width="280px" src="./Assets/MatriculaSystem.png" alt="Matricula System VB.NET"/>
         </a>
         <br><br>
-        <a href="https://github.com/SalazarPaulo" target="_blank">
+        <a href="https://github.com/SalazarPaulo/matricula-system-vbnet" target="_blank">
           <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
         </a>
       </td>
@@ -138,30 +137,32 @@
 <br>
 <br><br><br>
 <br><br>
+
 <!-------------------------------------------------------------------------------------------------------->
+
 <div id="MINI-PROJECTS">
   <h2>🧪 MINI PROJECTS</h2> 
   <table align="left" >
     <tr>
       <!-- next mini project 1 -->
       <td width="50%" align="center" valign="top">
-        <h3>🧩 Mini Project 1</h3>
-        <a href="https://github.com/SalazarPaulo" title="Go to Link">
-          <img width="220px" src="./Assets/Perfil.PNG" alt="Mini Project 1"/>
+        <h3>⚔️ Pokémon Battle AI</h3>
+        <a href="https://github.com/SalazarPaulo/pokemon-battle-ai-minimax" title="Go to Link">
+          <img width="220px" src="./Assets/PokemonBattleAI.png" alt="Pokémon Battle AI"/>
         </a>
         <br><br>
-        <a href="https://github.com/SalazarPaulo" target="_blank">
+        <a href="https://github.com/SalazarPaulo/pokemon-battle-ai-minimax" target="_blank">
           <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
         </a>
       </td>
       <!-- next mini project 2 -->
       <td width="50%" align="center" valign="top">
-        <h3>🧩 Mini Project 2</h3>
-        <a href="https://github.com/SalazarPaulo" title="Go to Link">
-          <img width="220px" src="./Assets/Perfil.PNG" alt="Mini Project 2"/>
+        <h3>♛ N Queens Search Visualizer</h3>
+        <a href="https://github.com/SalazarPaulo/n-queens-search-visualizer" title="Go to Link">
+          <img width="220px" src="./Assets/NQueensVisualizer.png" alt="N Queens Search Visualizer"/>
         </a>
         <br><br>
-        <a href="https://github.com/SalazarPaulo" target="_blank">
+        <a href="https://github.com/SalazarPaulo/n-queens-search-visualizer" target="_blank">
           <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
         </a>
       </td>
