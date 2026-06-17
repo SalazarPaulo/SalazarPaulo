@@ -52,7 +52,7 @@
 <!-------------------------------------------------------------------------------------------------------->
 ### <div id="PROJECTS">
   <h2>👨🏻‍💻 PROJECTS</h2> 
-  <table align="left" >
+  <table width="100%">
     <tr>
       <!-- next project 1 -->
       <td width="50%" align="center" valign="top">
@@ -142,7 +142,7 @@
 
 <div id="MINI-PROJECTS">
   <h2>🧪 MINI PROJECTS</h2> 
-  <table align="left" >
+  <table width="100%">
     <tr>
       <!-- next mini project 1 -->
       <td width="50%" align="center" valign="top">
