@@ -133,10 +133,6 @@
   </table>
 </div>
 <br>
-<br><br>
-<br>
-<br><br><br>
-<br><br>
 
 <!-------------------------------------------------------------------------------------------------------->
 
@@ -167,39 +163,9 @@
         </a>
       </td>
     </tr>
-    <!-- next mini project 3 -->
-    <tr>
-      <td width="50%" align="center" valign="top">
-        <br>
-        <h3>🧩 Mini Project 3</h3>
-        <a href="https://github.com/SalazarPaulo" title="Go to Link">
-          <img width="220px" src="./Assets/Perfil.PNG" alt="Mini Project 3"/>
-        </a>
-        <br><br>
-        <a href="https://github.com/SalazarPaulo" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-        </a>
-      </td>
-      <!-- next mini project 4 -->
-      <td width="50%" align="center" valign="top">
-        <br>
-        <h3>🧩 Mini Project 4</h3>
-        <a href="https://github.com/SalazarPaulo" title="Go to Link">
-          <img width="220px" src="./Assets/Perfil.PNG" alt="Mini Project 4"/>
-        </a>
-        <br><br>
-        <a href="https://github.com/SalazarPaulo" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-        </a>
-      </td>
-    </tr>
   </table>
 </div>
 <br>
-<br><br>
-<br>
-<br><br><br>
-<br><br>
 <!-------------------------------------------------------------------------------------------------------->
 <!-------------------------------------------------------------------------------------------------------->
 
