@@ -130,6 +130,52 @@
         </a>
       </td>
     </tr>
+       <tr>
+      <!-- next project 7 -->
+      <td width="50%" align="center" valign="top">
+        <br>
+        <h3>🕹️ DEV ARCADE Portfolio</h3>
+        <a href="https://salazarpaulo.github.io/" title="Go to Live Site">
+          <img width="280px" src="./Assets/DevArcade.png" alt="DEV ARCADE interactive portfolio"/>
+        </a>
+        <br><br>
+        <a href="https://salazarpaulo.github.io/" target="_blank">
+          <img src="https://img.shields.io/badge/Live%20Site-5C32B7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Site"/>
+        </a>
+        <a href="https://github.com/SalazarPaulo/SalazarPaulo.github.io" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+        </a>
+      </td>
+      <!-- next project 8 -->
+      <td width="50%" align="center" valign="top">
+        <br>
+        <h3>🛡️ IDS-ML Thesis</h3>
+        <a href="https://github.com/SalazarPaulo/hybrid-ids-ml-flow-based-thesis" title="Go to Repository">
+          <img width="280px" src="./Assets/IDSMLThesis.png" alt="IDS-ML Thesis intrusion detection system"/>
+        </a>
+        <br><br>
+        <a href="https://github.com/SalazarPaulo/hybrid-ids-ml-flow-based-thesis" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <!-- next project 9 -->
+      <td width="50%" align="center" valign="top">
+        <br>
+        <h3>🐱 Noraneko: Cat Game</h3>
+        <a href="https://github.com/SalazarPaulo/REEMPLAZAR-CON-REPO" title="Go to Repository">
+          <img width="280px" src="./Assets/NoranekoGame.png" alt="Noraneko cat game"/>
+        </a>
+        <br><br>
+        <a href="https://github.com/SalazarPaulo/REEMPLAZAR-CON-REPO" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+        </a>
+      </td>
+      <td width="50%" align="center" valign="top">
+        &nbsp;
+      </td>
+    </tr>
   </table>
 </div>
 <br>
