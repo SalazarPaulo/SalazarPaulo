@@ -168,7 +168,7 @@
           <img width="280px" src="./Assets/NoranekoGame.png" alt="Noraneko cat game"/>
         </a>
         <br><br>
-        <a href="https://github.com/SalazarPaulo/REEMPLAZAR-CON-REPO" target="_blank">
+        <a href="https://github.com/SalazarPaulo/Noraneko" target="_blank">
           <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
         </a>
       </td>
