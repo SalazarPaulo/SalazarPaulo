@@ -151,7 +151,7 @@
         <br>
         <h3>🛡️ IDS-ML Thesis</h3>
         <a href="https://github.com/SalazarPaulo/hybrid-ids-ml-flow-based-thesis" title="Go to Repository">
-          <img width="280px" src="./Assets/IDSMLThesis.png" alt="IDS-ML Thesis intrusion detection system"/>
+          <img width="280px" src="./Assets/02-level-2-moe.png" alt="IDS-ML Thesis intrusion detection system"/>
         </a>
         <br><br>
         <a href="https://github.com/SalazarPaulo/hybrid-ids-ml-flow-based-thesis" target="_blank">
