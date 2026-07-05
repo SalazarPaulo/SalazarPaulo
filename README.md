@@ -72,7 +72,7 @@
       <td width="50%" align="center" valign="top">
         <h3>🚀 Space Ship Game</h3>
         <a href="https://github.com/SalazarPaulo/space_ship" title="Go to Link">
-          <img width="225px" src="./Assets/SpaceShipImg.png" alt="Space Ship Game"/>
+          <img width="225px" src="./Assets/04-gameplay-wave-two.png" alt="Space Ship Game"/>
         </a>
         <br><br>
         <a href="https://github.com/SalazarPaulo/space_ship" target="_blank">
