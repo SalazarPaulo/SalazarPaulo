@@ -190,7 +190,7 @@
       <td width="50%" align="center" valign="top">
         <h3>⚔️ Pokémon Battle AI</h3>
         <a href="https://github.com/SalazarPaulo/pokemon-battle-ai-minimax" title="Go to Link">
-          <img width="220px" src="./Assets/PokemonBattleAI.png" alt="Pokémon Battle AI"/>
+          <img width="220px" src="./Assets/02-combate-2v2.png" alt="Pokémon Battle AI"/>
         </a>
         <br><br>
         <a href="https://github.com/SalazarPaulo/pokemon-battle-ai-minimax" target="_blank">
